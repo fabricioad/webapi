@@ -1,0 +1,9 @@
+FrmConsultaPaises = 52, 52, 479, 317, C, 26, 26, 764, 291, C
+ClsWebAPI = 78, 78, 505, 343, C
+ClsDecodificadorXml = 78, 78, 752, 311, C
+ClsBancoDeDados = 130, 130, 644, 418, C
+ClsNegocioConsultaPaises = 104, 104, 604, 392, C
+ClsPais = 26, 26, 754, 262, C
+ClsLinguaFalada = -224, 53, 676, 284, C
+ClsEstruturadorDeDados = 130, 130, 654, 403, C
+ClsLog = 78, 78, 643, 357, C
